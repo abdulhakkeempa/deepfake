@@ -1,2 +1,2 @@
 # DeepFake
-Inference of Tortoise TTS on generating Deepfake Audios &amp; Videos
+Inference of Tortoise TTS &amp; (Wav2Lip, Diff2Lip) on generating Deepfake Audios &amp; Videos
